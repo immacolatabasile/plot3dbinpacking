@@ -14,7 +14,6 @@ class Container:
         #     raise ValueError("Item exceeds container boundaries.")
 
     def _is_within_bounds(self, position: list, size: list) -> bool:
-        """Controlla se l'item è all'interno dei confini del container."""
         for i in range(3):
             if position[i] + size[i] > self.dimensions[i]:
                 return False
@@ -24,5 +23,4 @@ class Container:
         return list(self.Items.values())
 
     def __repr__(self) -> str:
-        """Restituisce una rappresentazione in stringa del container."""
         return f"Container(id={self.container_id}, dimensions={self.dimensions}, Items={self.Items})"

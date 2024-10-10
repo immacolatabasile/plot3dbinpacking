@@ -1,0 +1,105 @@
+[ {
+  "container_id" : "box_0",
+  "dimensions" : [ 381, 601, 721 ],
+  "items" : [ {
+    "item_id" : "scatola103_0",
+    "position" : [ 0, 0, 0 ],
+    "size" : [ 314, 186, 115 ]
+  }, {
+    "item_id" : "scatola103_1",
+    "position" : [ 0, 187, 0 ],
+    "size" : [ 314, 186, 115 ]
+  }, {
+    "item_id" : "scatola103_2",
+    "position" : [ 0, 374, 0 ],
+    "size" : [ 314, 186, 115 ]
+  }, {
+    "item_id" : "scatola103_3",
+    "position" : [ 0, 0, 116 ],
+    "size" : [ 314, 186, 115 ]
+  }, {
+    "item_id" : "scatola103_4",
+    "position" : [ 0, 187, 116 ],
+    "size" : [ 314, 186, 115 ]
+  }, {
+    "item_id" : "scatola103_5",
+    "position" : [ 0, 374, 116 ],
+    "size" : [ 314, 186, 115 ]
+  }, {
+    "item_id" : "scatola103_6",
+    "position" : [ 0, 0, 232 ],
+    "size" : [ 314, 186, 115 ]
+  }, {
+    "item_id" : "scatola103_7",
+    "position" : [ 0, 187, 232 ],
+    "size" : [ 314, 186, 115 ]
+  }, {
+    "item_id" : "scatola103_8",
+    "position" : [ 0, 374, 232 ],
+    "size" : [ 314, 186, 115 ]
+  }, {
+    "item_id" : "scatola105_9",
+    "position" : [ 0, 0, 348 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_10",
+    "position" : [ 0, 170, 348 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_11",
+    "position" : [ 0, 340, 348 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_12",
+    "position" : [ 0, 0, 465 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_13",
+    "position" : [ 0, 170, 465 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_14",
+    "position" : [ 0, 340, 465 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola103_15",
+    "position" : [ 0, 0, 582 ],
+    "size" : [ 314, 186, 115 ]
+  }, {
+    "item_id" : "scatola103_16",
+    "position" : [ 0, 187, 582 ],
+    "size" : [ 314, 186, 115 ]
+  } ]
+}, {
+  "container_id" : "box_1",
+  "dimensions" : [ 381, 601, 721 ],
+  "items" : [ {
+    "item_id" : "scatola105_0",
+    "position" : [ 0, 0, 0 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_1",
+    "position" : [ 0, 170, 0 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_2",
+    "position" : [ 0, 340, 0 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_3",
+    "position" : [ 0, 0, 117 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_4",
+    "position" : [ 0, 170, 117 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_5",
+    "position" : [ 0, 340, 117 ],
+    "size" : [ 307, 169, 116 ]
+  }, {
+    "item_id" : "scatola105_6",
+    "position" : [ 0, 0, 234 ],
+    "size" : [ 307, 169, 116 ]
+  } ]
+} ]
